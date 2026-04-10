@@ -47,7 +47,7 @@ https://shubham-wagh-portfolio.lovable.app/
 
 ## 📫 Contact Me
 - 📧 Email: Shubhamharishwagh@gmail.com  
-- 💼 LinkedIn: linkedin.com/in/shubham-wagh-b2b9192a8
+- 💼 LinkedIn: linkedin.com/in/shubham-wagh-gcp
 ---
 
 ⭐ If you like my work, consider giving a star!
